@@ -1,6 +1,6 @@
 # 🧠 Awesome ChatGPT Prompts
-This is a fork of the main repo awesome-chatgpt-prompts adapted to Text Generator Plugin in Obsidian.
-# [Source ](https://github.com/f/awesome-chatgpt-prompts)
+This is a fork of the main repo [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) adapted to Text Generator Plugin in Obsidian.
+
 Welcome to the "Awesome ChatGPT Prompts"! This is a collection of prompt examples to be used with the ChatGPT model.
 
 The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
