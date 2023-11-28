@@ -1,3 +1,7 @@
+# NOT USED ANYMORE!
+Use the new repo [here](https://github.com/text-gen/awesome-tg-package) instead.
+
+
 # 🧠 Awesome ChatGPT Prompts
 This is a fork of the main repo [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) adapted to Text Generator Plugin in Obsidian.
 
